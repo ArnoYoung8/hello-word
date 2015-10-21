@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="green_focus">#00ff00</color>
+    <color name="green_focus_a8">#8800ff00</color>
+    <color name="green_focus_ac">#cc00ff00</color>
+   	<color name="yellow_focus">#ffcc00</color>  	 
+   	<color name="focus">#ff6600</color>
+   	<color name="focus1">#ff9900</color>
+   	<color name="yellow_press">#44ffcc00</color>  
+   	
+   	<color name="blue_s">#003399</color>
+   	<color name="blue_s_a4">#44003399</color>
+   	<color name="blue_s_a8">#88003399</color>
+   	<color name="blue_s_af">#f3003399</color>
+   	<color name="blue_z">#3366cc</color>
+   	<color name="blue_q">#6699ff</color>
+   	<color name="blue_q_a8">#886699ff</color>
+   	<color name="blue_q_af">#f36699ff</color>
+   	<color name="blue_text">#FF007CB0</color>
+   	<color name="blue_light">#FF007AA2</color>
+   	<color name="blue_qq_s">#FF157fb2</color>
+   	<color name="blue_qq_q">#FF169Ada</color>
+   	<color name="blue_qq_q_a8">#88169Ada</color>
+   	<color name="blue_qq_q_af">#fb169Ada</color>
+   	<color name="blue_s1">#FF0a4663</color>
+   	<color name="blue_s2">#FF051f2c</color>
+   	<color name="blue_s_q1">#80affb</color>
+   	
+   	<color name="blue_q1">#FFe8f2fe</color>
+   	<color name="blue_q2">#FF99e1fd</color>
+   	<color name="blue_q3">#FF6bc0fa</color>
+   	<color name="blue_q4">#FF67bffa</color>
+   	<color name="blue_q5">#FF75c7fb</color>
+   	<color name="blue_q6">#94b6f3</color>
+   	
+  	<color name="gray_s">#404040</color>
+   	<color name="gray_z">#808080</color>
+   	<color name="gray_z1">#c6c7e0</color>
+   	<color name="gray_q">#bfbfbf</color>
+    <color name="gray_txt">#FF575756</color>
+    <color name="gray_bg">#FFE3E3E7</color>
+    <color name="gray_white">#ffC9CACB</color>
+	<color name="gray_nomal">#838B83</color>
+    
+    <color name="white_a4">#44FFFFFF</color>
+    <color name="white_a8">#88FFFFFF</color>
+    <color name="white_a9">#99FFFFFF</color>
+    <color name="white_ab">#bbFFFFFF</color>
+    <color name="white_ad">#ddFFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="black">#FF000000</color>
+    <color name="black1">#e0000000</color>
+    <color name="black2">#80000000</color>
+    <color name="black_overlay">#66000000</color>
+    
+    <color name="yellow_ora_text">#FFEB6100</color>
+    <color name="yellow_ora">#FFE84E0E</color>
+    <color name="yellow">#ff9933</color>
+    <color name="yellow_ora_light">#FFFCBA00</color>
+    <color name="yellow_ora_a7">#77EB6100</color>
+	
+    <color name="purple">#BA55D3</color>
+    <color name="purple_q">#c8bfe7</color>
+    
+    
+    <color name="transparent">#00000000</color>
+    <color name="bg">#FFF39200</color>
+
+    <color name="lightorange">#FFACBA00</color>
+    <color name="red">#FFFF0000</color>
+    <color name="red_holo_light">#ffff4444</color>
+    <color name="transparentdarkgray">#CC292929</color>
+    <color name="transparentgray">#CC666666</color>
+
+    <color name="gray">#ff333333</color>
+    <color name="light_blue">#5CACEE</color>
+    <color name="blue_light1">#2C3C4E</color>
+    <color name="blue_center">#538EEE</color>
+    <color name="blue">#436EEE</color>
+	<color name="light_gray">#87CEEB</color>
+	<color name="orange_red">#613030</color>
+
+
+
+	 <color name="coffee">#622f1b</color>
+     <color name="click_color">#2b72d6</color>
+     
+     
+        <color name="buttom_top">#1e1e1e</color> 
+   <color name="buttom_centre">#303030</color> 
+   <color name="buttom_buttom">#000000</color>  
+</resources>

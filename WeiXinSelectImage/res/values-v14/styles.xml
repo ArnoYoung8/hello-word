@@ -1,0 +1,16 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat.NoActionBar">
+                <!-- customize the color palette -->
+        <item name="colorPrimary">@color/material_blue_grey_800</item>
+        <item name="colorPrimaryDark">@color/material_blue_grey_800</item>
+        <item name="colorAccent">@color/material_deep_teal_500</item>
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item 
+         android:id="@+id/action_back"
+         android:icon="@android:drawable/btn_radio"
+         android:title="返回"
+         android:showAsAction="collapseActionView"
+       
+         />   
+     <item 
+         android:id="@+id/action_back1"
+         android:icon="@android:drawable/btn_radio"
+         android:title="TEST"
+         android:showAsAction="withText"
+       
+         />  
+              <item 
+         android:id="@+id/action_back2"
+         android:icon="@android:drawable/btn_radio"
+         android:title="T"
+         android:showAsAction="always"
+       
+         />  
+
+</menu>
